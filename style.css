@@ -1,0 +1,135 @@
+/** Tags **/
+
+footer {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  background-color: #E3C770;
+  color: white;
+  height: 50px;
+  margin-top: 100px;
+  padding-top: 15px;
+}
+
+
+/*classes*/
+
+.top {
+  background-image: url(images/trv1.jpg);
+  height: 600px;
+  position: relative;
+}
+.container1{
+  
+    position: relative;
+    margin-left: 120px;
+    top: 65px;
+   
+
+}
+
+.container2 {
+  margin-top: 50px;
+}
+
+.search {
+  background-color: white;
+  height: 30px;
+  width: 340px;
+  border-radius: 10px;
+  margin-left: 100px;
+  
+}
+
+.ara{
+  background-color: #E3C770;
+  height: 30px;
+  width:60px;
+  border-radius: 10px;
+  margin-left: 120px;
+}
+
+.mavi {
+  background-image: url(images/trv2.png);
+  height: 200px;
+  width:200px;
+}
+
+.aile {
+  background-image: url(images/trv3.png);
+  height: 200px;
+  width:200px;
+}
+
+.hava {
+  background-image: url(images/trv4.png);
+  height: 200px;
+  width:200px;
+}
+
+.sanat {
+  background-image: url(images/trv5.png);
+  height: 200px;
+  width:200px;
+}
+
+.container3 {
+  margin-top: 90px;
+  
+}
+.container4 {
+  margin-top: 70px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.maiden {
+
+  background-image: url(images/trv6.png);
+  height: 371px;
+  width: 300px;
+
+ 
+}
+
+.galata {
+
+  background-image: url(images/trv7.png);
+  height: 371px;
+  width: 300px;
+ 
+}
+.aquarium {
+
+  background-image: url(images/trv7.png);
+  height: 371px;
+  width: 300px;
+ 
+}
+
+.popular {
+  margin-left: 150px;
+}
+
+.img {
+  background-image: url(images/trv9.png);
+  height: 600px;
+  width: 1264px;
+  margin-top: 50px;
+}
+
+
+.gallery1 {
+  background-image: url(images/trv10.jpg);
+  height: 500px;
+  width: 400px;
+  margin: 5px;
+}
+
+
+
+
+
+.container4 {
+  margin-left: 100px;
+}
